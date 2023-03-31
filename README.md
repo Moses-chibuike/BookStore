@@ -95,15 +95,6 @@ Clone this repository to your desired folder on your local machine
 The projects incorporate some linters check, to get them running on your local system follow these below;
 
 1. `.github/workflows/linters.yml` is already included in project, this is used by Github to run tests on the repo.
-2. To install Webpack packages and dependencies
-
-- `npm init -y` initalize the project.
-- `npm i` installs all dependencies listed in the projects's package.json
-
-- `npm install webpack webpack-cli --save-dev` installs webpack
-- `npm install --save-dev html-webpack-plugin` installs webpack plugin
-- `npm install --save-dev style-loader css-loader` installs assets loaders
-- `npm install --save-dev webpack-dev-server` installs webpack server
 
 3. To install Stylelint linters run:
 
@@ -154,7 +145,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcomed!
 
-Feel free to check the [issues page]().
+Feel free to check the [issues page](https://github.com/Moses-chibuike/bookstore/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

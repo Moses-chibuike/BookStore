@@ -11,7 +11,7 @@ function Books() {
     },
     {
       title: 'Love and hate',
-      author: 'Zintee Ihe',
+      author: 'francis',
       index: 2,
     },
   ];
