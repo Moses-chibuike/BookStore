@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Maths Magician</b></h3>
+  <h3><b>Book Store</b></h3>
 
 </div>
 
@@ -30,7 +30,7 @@
 
 # 📖 Book Store <a name="about-project"></a>
 
-**Maths Magician** is part of introductory projects in Microverse software development program.
+**Book Store** is part of introductory projects in Microverse software development program.
 
 ## 🛠 Built With <a name="built-with"></a>
 
