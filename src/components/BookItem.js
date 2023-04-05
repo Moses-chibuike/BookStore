@@ -11,7 +11,6 @@ function BookItem({ book }) {
       <h2>
         {author}
       </h2>
-      <button type="submit">Remove Book</button>
     </div>
   );
 }

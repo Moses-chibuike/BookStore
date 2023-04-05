@@ -6,12 +6,12 @@ function Books() {
   const data = [
     {
       title: 'Code like a novice',
-      author: 'moses',
+      author: 'Peter',
       index: 1,
     },
     {
       title: 'Love and hate',
-      author: 'francis',
+      author: 'Zintee Ihe',
       index: 2,
     },
   ];
