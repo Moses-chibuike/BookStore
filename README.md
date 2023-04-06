@@ -137,7 +137,8 @@ You can deploy this project using:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
-
+- Add more styling to the ui
+- Host a live version of the project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
