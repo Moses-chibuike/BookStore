@@ -1,5 +1,5 @@
 // action type
-const CHECK_STATUS = 'categories/categoriesSlice/CHECK_STATUS';
+const CHECK_STATUS = 'categories/categories/CHECK_STATUS';
 
 // reducer
 const initialState = [];
