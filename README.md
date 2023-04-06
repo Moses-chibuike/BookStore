@@ -72,12 +72,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- Not deployed yet
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -118,14 +112,6 @@ To run the project, clone the repository to your local machine, install dependen
 ### Run tests
 
 Follow the procedures under [Install](#install) to run some of the included linter tests.
-
-### Deployment
-
-You can deploy this project using:
-
-- [)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
 
