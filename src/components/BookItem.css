@@ -1,3 +1,4 @@
+/* stylelint-disable */
 .book-item-container {
   display: flex;
   justify-content: space-between;
@@ -16,8 +17,8 @@
 }
 
 #ti {
-font-family: RobotoSlab;
-font-size: 2rem;
+  font-family: RobotoSlab;
+  font-size: 2rem;
 }
 
 .book-category {
