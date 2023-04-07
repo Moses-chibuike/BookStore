@@ -72,12 +72,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- Not deployed yet
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -119,14 +113,6 @@ To run the project, clone the repository to your local machine, install dependen
 
 Follow the procedures under [Install](#install) to run some of the included linter tests.
 
-### Deployment
-
-You can deploy this project using:
-
-- [)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Moses-Chibuike**
@@ -137,7 +123,8 @@ You can deploy this project using:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
-
+- Add more styling to the ui
+- Host a live version of the project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
