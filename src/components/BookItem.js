@@ -11,7 +11,7 @@ function BookItem({ book }) {
   // eslint-disable-next-line camelcase
   const { title, author, item_id } = book;
   return (
-  
+
     <div className="book-item-container">
       <div className="title-section">
         <div>
