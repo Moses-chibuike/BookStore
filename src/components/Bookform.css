@@ -7,6 +7,7 @@
 .form-title {
   color: #88888f;
   font-size: 1.6rem;
+  font-family: Montserrat;
 }
 
 .form-actions input {
@@ -16,10 +17,11 @@
   height: 2.5rem;
   padding: 1rem;
   border-radius: 0.1rem;
+  font-family: Montserrat;
 }
 
 .form-actions input::placeholder {
-  color: #88888f;
+  color: #96969e;
 }
 
 .form-actions button {

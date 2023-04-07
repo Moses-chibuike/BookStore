@@ -16,7 +16,7 @@ function BookItem({ book }) {
       <div className="title-section">
         <div>
           <span className="book-category">Nature</span>
-          <h2 className="book-title">
+          <h2 id="ti" className="book-title">
             {title}
           </h2>
           <span className="book-author">

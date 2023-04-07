@@ -46,8 +46,8 @@ function Bookform() {
       <h3 className="form-title">ADD NEW BOOK</h3>
       <form onSubmit={handleSubmit}>
         <div className="form-actions">
-          <input type="text" placeholder="Add book name..." name="title" value={formData.title} onChange={setValue} />
-          <input type="text" placeholder="Add Author's name..." name="author" value={formData.author} onChange={setValue} />
+          <input type="text" placeholder="Book title" name="title" value={formData.title} onChange={setValue} />
+          <input type="text" placeholder="Category" name="author" value={formData.author} onChange={setValue} />
           <button type="submit">Add Book</button>
         </div>
       </form>

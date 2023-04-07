@@ -14,10 +14,10 @@ function Navbar() {
           <nav>
             <ul className="menu-list">
               <li className="list-item">
-                <Link to="/">Books</Link>
+                <Link to="/" id="bo">BOOKS</Link>
               </li>
               <li className="list-item">
-                <Link to="/categories">Categories</Link>
+                <Link to="/categories" id="cat">CATEGORIES</Link>
               </li>
             </ul>
           </nav>
